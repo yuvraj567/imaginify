@@ -55,6 +55,7 @@ declare type UpdateImageParams = {
   path: string;
 };
 
+
 declare type Transformations = {
   restore?: boolean;
   fillBackground?: boolean;
